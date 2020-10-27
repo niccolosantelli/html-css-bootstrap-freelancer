@@ -19,15 +19,10 @@
   margin-top: 100px;
 }
 
-.blocco .col-lg-4{
-  background-color: red;
-  height: 200px;
-  padding: 10px;
-}
-
 .card{
   padding: 10px;
-  background-color: white;
+  margin: 5px;
+  background-color: yellow;
 }
 
 .section_about{
