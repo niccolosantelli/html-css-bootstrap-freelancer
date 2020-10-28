@@ -26,6 +26,8 @@ h4{
   border: 0;
 }
 
+
+
 #bs-example-navbar-collapse-1{
   margin-top: 15px;
   color: white
@@ -36,10 +38,14 @@ h4{
 
 .navbar-default .navbar-nav > li > a{
   color: white;
+  font-weight: 400;
+  font-size: 22px;
 }
 
 .navbar-default .navbar-brand{
   color: white;
+  font-weight: 400;
+  font-size: 22px;
 }
 
 .start{
